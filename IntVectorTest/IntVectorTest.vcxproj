@@ -115,12 +115,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="IntVector.cpp" />
     <ClCompile Include="IntVectorTest.cpp" />
     <ClCompile Include="solution.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="IntVector.h" />
     <ClInclude Include="testing.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

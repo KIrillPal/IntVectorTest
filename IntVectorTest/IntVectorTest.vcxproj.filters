@@ -18,17 +18,11 @@
     <ClCompile Include="IntVectorTest.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="IntVector.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="solution.h">
       <Filter>Файлы заголовков</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="IntVector.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
     <ClInclude Include="testing.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>

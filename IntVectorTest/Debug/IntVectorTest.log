@@ -1,7 +1,0 @@
-﻿  IntVector.cpp
-  IntVectorTest.cpp
-E:\Desktop\Проекты\IntVectorTest\IntVectorTest\solution.h(18): warning C4018: <: несоответствие типов со знаком и без знака
-  solution.h
-E:\Desktop\Проекты\IntVectorTest\IntVectorTest\solution.h(18): warning C4018: <: несоответствие типов со знаком и без знака
-  Создание кода...
-  IntVectorTest.vcxproj -> E:\Desktop\Проекты\IntVectorTest\Debug\IntVectorTest.exe
